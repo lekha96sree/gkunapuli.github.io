@@ -1,5 +1,5 @@
 ---
-title: "he Adviceptron: Giving Advice To The Perceptron"
+title: "The Adviceptron: Giving Advice To The Perceptron"
 collection: publications
 permalink: /publication/10adviceptronANNIE
 excerpt: ''
