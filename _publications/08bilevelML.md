@@ -6,7 +6,6 @@ excerpt: 'The successful application of Support Vector Machines (SVMs), kernel m
 date: 2008-01-01
 venue: 'CRM Proceedings and Lecture Notes'
 paperurl: 'http://gkunapuli.github.io/files/08bilevelML.pdf'
-citation: 'G. Kunapuli, K. P. Bennett, J. Hu and J.-S. Pang.
-&quot; Bilevel Model Selection for Support Vector Machines. &quot;
-<i>CRM Proceedings and Lecture Notes</i>. Volume 45 (2008), pp. 129-158. American Mathematical Society. Pierre Hansen and Panos Pardolos, Editors.'
+citation: 'G. Kunapuli, K. P. Bennett, J. Hu and J.-S. Pang. &quot; Bilevel Model Selection for Support Vector Machines &quot; <i>CRM Proceedings and Lecture Notes</i>. Volume 45 (2008), pp. 129-158. American Mathematical Society. Pierre Hansen and Panos Pardolos, Editors.'
 ---
+[BibTeX](http://gkunapuli.github.io/files/08bilevelML.bib)
