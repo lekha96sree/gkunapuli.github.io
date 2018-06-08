@@ -1,5 +1,5 @@
 ---
-title: "ILP for Bootstrapped Learning: A Layered Approach to Automating the ILP Setup Problem"
+title: 'ILP for Bootstrapped Learning: A Layered Approach to Automating the ILP Setup Problem'
 collection: publications
 permalink: /publication/09ilp
 excerpt: ''
