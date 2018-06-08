@@ -1,5 +1,5 @@
 ---
-title: "Online Knowledge-Based Support Vector Machines"
+title: "he Adviceptron: Giving Advice To The Perceptron"
 collection: publications
 permalink: /publication/10adviceptronANNIE
 excerpt: ''
