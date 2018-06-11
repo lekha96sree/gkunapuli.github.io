@@ -37,7 +37,7 @@
     </h2>
     
     {% if post.author and post.venue %}
-      <p>{{ post.author }}. <i> {{post.venue}} </i></p>
+      <p>{{ post.author }}. <i> {{post.venue}}. </i></p>
     {% endif %}
     
     {% if post.read_time %}
@@ -50,12 +50,8 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl %}
-      <p>{{ post.citation }} <a href="{{ post.paperurl }}"><u>[PDF]</u></a></p>
-    {% elsif post.citation %}
-      <p>{{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+    {% if post.paperurl %}
+      <p> [<a href="{{ post.paperurl }}"><u> PDF </u></a> ] </p>
     {% endif %}
 
 
