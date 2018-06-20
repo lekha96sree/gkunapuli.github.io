@@ -8,7 +8,7 @@ venue: 'Sixth International Conference on Knowledge Capture (KCAP''11), Banff, C
 paperurl: 'http://gkunapuli.github.io/files/11WargusKCAP.pdf'
 citation: 'T. Walker, G. Kunapuli, N. Larsen, D. Page and J. W. Shavlik.
 <b> Integrating Knowledge Capture and Supervised Learning Through a Human-Computer Interface.</b> <i> Sixth International Conference on Knowledge Capture </i> (KCAP''11), Banff, Canada, June 25-29, 2011.'
-
+author: 'T. Walker, <b>G. Kunapuli</b>, N. Larsen, D. Page and J. W. Shavlik'
 
 ---
 
