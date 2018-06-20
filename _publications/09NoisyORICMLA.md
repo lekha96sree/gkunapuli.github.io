@@ -4,12 +4,10 @@ collection: publications
 permalink: /publication/09NoisyORICMLA
 excerpt: ''
 date: 2009-02-01
-venue: 'Eighth International Conference on Machine Learning and Applications (ICMLA''09), Miami Beach, FL, USA
-December 13-15 2009'
+venue: 'Eighth International Conference on Machine Learning and Applications (ICMLA''09), Miami Beach, FL'
 paperurl: 'http://gkunapuli.github.io/files/09NoisyORICMLA.pdf'
 citation: 'S. Natarajan, P. Tadepalli, G. Kunapuli and J. W. Shavlik.
-<b>Learning Parameters for Relational Probabilistic Models with Noisy-Or Combining Rule</b>. Eighth International Conference on Machine Learning and Applications (ICMLA''09), Miami Beach, FL, USA
-December 13-15 2009. '
+<b>Learning Parameters for Relational Probabilistic Models with Noisy-Or Combining Rule</b>. Eighth International Conference on Machine Learning and Applications (ICMLA''09), Miami Beach, FL, December 13-15 2009. '
 author: 'S. Natarajan, P. Tadepalli, <b>G. Kunapuli</b> and J. W. Shavlik'
 
 ---
