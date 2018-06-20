@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/10multiagentinverserl
 excerpt: ''
 date: 2010-06-01
-venue: 'Ninth International Conference on Machine Learning and Applications (ICMLA''10), Washington D. C.'
+venue: 'Ninth International Conference on Machine Learning and Applications (ICMLA''10), Washington D. C'
 paperurl: 'http://gkunapuli.github.io/files/10multiagentinverserl.pdf'
 citation: 'S. Natarajan, G. Kunapuli, K. Judah, P. Tadepalli, K. Kersting and J. W. Shavlik. <b> Multi-Agent Inverse Reinforcement Learning. </b>
 <i> Ninth International Conference on Machine Learning and Applications </i> (ICMLA''10), Washington D. C., USA, December 12-14, 2010.'
