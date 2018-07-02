@@ -1,5 +1,5 @@
 ---
-title: "Relational Restricted Boltzmann Machines: {A} Probabilistic Logic Learning Approach"
+title: "Relational Restricted Boltzmann Machines: A Probabilistic Logic Learning Approach"
 collection: publications
 permalink: /publication/17rrbmILP
 excerpt: ''
@@ -7,7 +7,7 @@ date: 2017-11-01
 venue: 'Twenty-Seventh International Conference on Inductive Logic Programming (ILP''17), Orleans, France'
 paperurl: 'http://gkunapuli.github.io/files/17rrbmILP.pdf'
 citation: 'N. Kaur, G. Kunapuli, T. Khot, K. Kersting, W. W. Cohen and S. Natarajan. 
-<b> Relational Restricted Boltzmann Machines: {A} Probabilistic Logic Learning Approach </b>.
+<b> Relational Restricted Boltzmann Machines: A Probabilistic Logic Learning Approach </b>.
 <i> Twenty-Seventh International Conference on Inductive Logic Programming </i>(ILP''17), Orleans, France.'
 author: 'N. Kaur, <b> G. Kunapuli </b>, T. Khot, K. Kersting, W. W. Cohen and S. Natarajan'
 ---
