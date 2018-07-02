@@ -23,4 +23,4 @@ Phone: (972) 883-4212 <br>
 Email : gautam-dot-kunapuli-@-utdallas.edu 
 
 **For prospective students:**
-If you are interested in working in the Starling Lab, please register for a course that taught by me or [Prof. Sriraam Natarajan](https://utdallas.edu/~sriraam.natarajan/index.html). The Starling Lab is not currently offering any internship/short-term positions. 
+If you are interested in working in the Starling Lab, please register for a course taught by me or [Prof. Sriraam Natarajan](https://utdallas.edu/~sriraam.natarajan/index.html). The Starling Lab is not currently offering any internship/short-term positions. 
