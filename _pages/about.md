@@ -17,7 +17,7 @@ Contact Information
 Room ECSS 2.717 <br>
 Erik Jonsson School of Engineering & Computer Science <br>
 800 W. Campbell Road <br>
-Rcihardson, TX 75080  <br>
+Richardson, TX 75080  <br>
 
 Phone: (972) 883-4212 <br>
 Email : gautam dot kunapuli-@-utdallas.edu 
