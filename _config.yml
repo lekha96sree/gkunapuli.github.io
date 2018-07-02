@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Gautam Kunapuli"
   avatar           : "gautam_kunapuli.jpg"
-  bio              : "Research Associate Professor and co-supervisor of the Starling Lab"
-  location         : "ECSS 2.717, (972) 883-4212"
+  bio              : "Research Associate Professor"
+  location         : "ECSS 2.717"
   employer         : "Univ. of Texas at Dallas"
   googlescholar    : "https://scholar.google.com/citations?user=XewwOE8AAAAJ&hl=en"
   email            : "gautam.kunapuli@utdallas.edu"
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/gautam-kunapuli/"
-  orcid            : "https://orcid.org/0000-0002-9297-2071"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
