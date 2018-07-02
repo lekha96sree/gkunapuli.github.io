@@ -15,11 +15,11 @@ My research interests include human-in-the-loop learning, knowledge-based and ad
 Contact Information
 ======
 Room ECSS 2.717 <br>
-Erik Jonsson School of Engineering & Computer Science
-800 W. Campbell Road; 
-Rcihardson, TX 75080 
+Erik Jonsson School of Engineering & Computer Science <br>
+800 W. Campbell Road <br>
+Rcihardson, TX 75080  <br>
 
-Phone: (972) 883-4212
+Phone: (972) 883-4212 <br>
 Email : gautam dot kunapuli-@-utdallas.edu 
 
 **For prospective students**
