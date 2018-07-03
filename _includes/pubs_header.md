@@ -4,13 +4,8 @@
 {% capture rschgat %}{{ "ResearchGate.png" | prepend: "/images/" | prepend: base_path }}{% endcapture %}
 {% capture orcid %}{{ "OrcID.png" | prepend: "/images/" | prepend: base_path }}{% endcapture %}
 
-[![]({{googsch}} "Click to go to my Google Scholar page")](https://scholar.google.com/citations?user=XewwOE8AAAAJ&hl=en)
-[![]({{dblp}} "Click to go to my DBLP page")](https://dblp.org/pers/hd/k/Kunapuli:Gautam)
-[![]({{rschgat}} "Click to go to my ResearchGate page")](https://www.researchgate.net/profile/Gautam_Kunapuli)
-[![]({{orcid}} "Click to go to my OrcID page")](https://orcid.org/0000-0002-9297-2071)
-
-<a href="https://scholar.google.com/citations?user=XewwOE8AAAAJ&hl=en"><img src="{{googsch}}" height="25%" width="25%"/></a>
-<a href="https://dblp.org/pers/hd/k/Kunapuli:Gautam"><img src="{{dblp}}" height="25%" width="25%"/></a>
-<a href="https://www.researchgate.net/profile/Gautam_Kunapuli"><img src="{{rschgat}}" height="25%" width="25%"/></a>
-<a href="https://orcid.org/0000-0002-9297-2071"><img src="{{orcid}}" height="25%" width="25%"/></a>
+<a href="https://scholar.google.com/citations?user=XewwOE8AAAAJ&hl=en"><img src="{{googsch}}" height="15%" width="15%"/></a>
+<a href="https://dblp.org/pers/hd/k/Kunapuli:Gautam"><img src="{{dblp}}" height="15%" width="15%"/></a>
+<a href="https://www.researchgate.net/profile/Gautam_Kunapuli"><img src="{{rschgat}}" height="15%" width="15%"/></a>
+<a href="https://orcid.org/0000-0002-9297-2071"><img src="{{orcid}}" height="15%" width="15%"/></a>
 <!--a href=""><img src={{}} height=50></a> -->
