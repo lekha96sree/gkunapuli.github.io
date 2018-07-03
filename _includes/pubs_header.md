@@ -8,3 +8,6 @@
 [![]({{dblp}} "Click to go to my DBLP page")](https://dblp.org/pers/hd/k/Kunapuli:Gautam)
 [![]({{rschgat}} "Click to go to my ResearchGate page")](https://www.researchgate.net/profile/Gautam_Kunapuli)
 [![]({{orcid}} "Click to go to my OrcID page")](https://orcid.org/0000-0002-9297-2071)
+
+<a href="https://scholar.google.com/citations?user=XewwOE8AAAAJ&hl=en"><img src={{googsch}} height=50></a>
+<!--a href=""><img src={{}} height=50></a> -->
