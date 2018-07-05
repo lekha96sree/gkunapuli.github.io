@@ -9,10 +9,10 @@ author_profile: true
 
 ### [Conference Papers](#conference-papers) &nbsp;&nbsp;&nbsp; [Journal Articles and Book Chapters](#journal-articles-and-book-chapters) &nbsp;&nbsp;&nbsp; [External References](#external-references)
 
-====
+
 
 Conference Papers
---------------------
+-----------------
 
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.publications reversed %}
@@ -27,7 +27,8 @@ Conference Papers
 {% endfor %}
 
 
-## Journal Articles and Book Chapters
+Journal Articles and Book Chapters
+----------------------------------
 
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.publications reversed %}
@@ -43,5 +44,6 @@ Conference Papers
   {% endif %}
 {% endfor %}
 
-## External References
+External References
+-------------------
 {% include pubs_header.md %}
