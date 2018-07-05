@@ -1,6 +1,6 @@
 ---
 title: "Classification Model Selection via Bilevel Programming"
-collection: publications
+collection: journals
 permalink: /publication/08classification
 excerpt: ''
 date: 2008-02-01
