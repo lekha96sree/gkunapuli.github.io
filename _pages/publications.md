@@ -8,9 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ### [Conference Papers](#conference-papers) &nbsp;&nbsp;&nbsp; [Journal Articles and Book Chapters](#journal-articles-and-book-chapters) &nbsp;&nbsp;&nbsp; [External References](#external-references)
-=====
 
-## Conference Papers
+====
+
+Conference Papers
 --------------------
 
 {% capture written_year %}'None'{% endcapture %}
