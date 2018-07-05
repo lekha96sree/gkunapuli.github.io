@@ -1,6 +1,5 @@
 {% include base_path %}
 
-External links to archives and additional metadata:
 {% capture googsch %}{{ "GoogleScholar.png" | prepend: "/images/" | prepend: base_path }}{% endcapture %}
 {% capture dblp %}{{ "DBLP.png" | prepend: "/images/" | prepend: base_path }}{% endcapture %}
 {% capture rschgat %}{{ "ResearchGate.png" | prepend: "/images/" | prepend: base_path }}{% endcapture %}
