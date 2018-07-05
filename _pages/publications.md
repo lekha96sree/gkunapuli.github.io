@@ -13,11 +13,11 @@ author_profile: true
 {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     {% include year-heading.html %}
-    {% capture written_year %}{{ year }}{% endcapture %}
-    {{ post.collection }}
-    {% if post.collection == 'journals' %}
-    JOURNAL
-    {% endif %}
+    {% capture written_year %}{{ year }}{% endcapture %}    
   {% endif %}
   {% include archive-single.html %}
+  {{ post.collection }}
+  {% if post.collection == 'journals' %}
+  JOURNAL
+  {% endif %}
 {% endfor %}
