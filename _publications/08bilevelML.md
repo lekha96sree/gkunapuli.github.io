@@ -1,6 +1,6 @@
 ---
 title: "Bilevel Model Selection for Support Vector Machines"
-collection: publications
+collection: journals
 permalink: /publication/08bilevelML
 excerpt: ''
 date: 2008-01-01
