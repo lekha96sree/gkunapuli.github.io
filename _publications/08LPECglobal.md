@@ -1,6 +1,6 @@
 ---
 title: "On the Global Solution of Linear Programs with Linear Complementarity Constraints"
-collection: publications
+collection: journals
 permalink: /publication/08LPECglobal
 excerpt: ''
 date: 2008-03-01
