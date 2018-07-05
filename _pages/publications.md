@@ -13,7 +13,7 @@ author_profile: true
 {{ <h2> Journal Articles and Book Chapters </h2> }}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.journals reversed %}
-  {% if post.type == 'journal' %}
+  {% if post.type %}
     {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% if year != written_year %}
       {% include year-heading.html %}
