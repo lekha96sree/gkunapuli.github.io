@@ -30,7 +30,7 @@ author_profile: true
 
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.publications reversed %}
-  {% if !post.type %}
+  {% if post.type != 'journal' %}
     {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% if year != written_year %}
       {% include year-heading.html %}
