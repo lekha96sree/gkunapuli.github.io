@@ -17,6 +17,7 @@ author_profile: true
     {{ post.collection }}
     {% if post.collection == 'journals' %}
     JOURNAL
+    {% endif %}
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
