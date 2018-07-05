@@ -14,6 +14,9 @@ author_profile: true
   {% if year != written_year %}
     {% include year-heading.html %}
     {% capture written_year %}{{ year }}{% endcapture %}
+    {{ post.collection }}
+    {% if post.collection == 'journals' %}
+    JOURNAL
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
