@@ -1,6 +1,6 @@
 ---
 title: "Bilevel Optimization and Machine Learning"
-collection: publications
+collection: journals
 permalink: /publication/08regression
 excerpt: ''
 date: 2008-04-01
