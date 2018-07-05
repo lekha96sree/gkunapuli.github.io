@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-### [Conference Papers](#conferences) &nbsp;&nbsp;&nbsp; [Journal Articles and Book Chapters](#journals) &nbsp;&nbsp;&nbsp; [External References](#external)
+### [Conference Papers](#conference-papers) &nbsp;&nbsp;&nbsp; [Journal Articles and Book Chapters](#journal-articles-and-book-chapters) &nbsp;&nbsp;&nbsp; [External References](#external-references)
 
-<h2 name='conferences'> Conference Papers </h2>
+## Conference Papers 
 
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.publications reversed %}
@@ -24,7 +24,7 @@ author_profile: true
 {% endfor %}
 
 
-<h2 name='journals'> Journal Articles and Book Chapters </h2>
+## Journal Articles and Book Chapters
 
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.publications reversed %}
@@ -40,5 +40,5 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2 name='external'> External Reference Sources </h2>
+## External References
 {% include pubs_header.md %}
