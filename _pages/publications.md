@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### [Conference Papers](#conferences) &nbsp&nbsp&nbsp [Journal Articles and Book Chapters](#journals) &nbsp&nbsp&nbsp [External References](#external)
+### [Conference Papers](#conferences) &nbsp;&nbsp;&nbsp; [Journal Articles and Book Chapters](#journals) &nbsp;&nbsp;&nbsp; [External References](#external)
 
 <h2 name='conferences'> Conference Papers </h2>
 
