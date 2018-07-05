@@ -10,7 +10,8 @@ author_profile: true
 {% include base_path %}
 
 
-{{ <h2> Journal Articles and Book Chapters </h2> }}
+<h2> Journal Articles and Book Chapters </h2>
+
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.journals reversed %}
   {% if post.type %}
