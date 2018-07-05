@@ -1,4 +1,6 @@
 {% include base_path %}
+
+External links to archives and additional metadata:
 {% capture googsch %}{{ "GoogleScholar.png" | prepend: "/images/" | prepend: base_path }}{% endcapture %}
 {% capture dblp %}{{ "DBLP.png" | prepend: "/images/" | prepend: base_path }}{% endcapture %}
 {% capture rschgat %}{{ "ResearchGate.png" | prepend: "/images/" | prepend: base_path }}{% endcapture %}
@@ -9,3 +11,5 @@
 <a href="https://www.researchgate.net/profile/Gautam_Kunapuli"><img src="{{rschgat}}" height="15%" width="15%"/></a>
 <a href="https://orcid.org/0000-0002-9297-2071"><img src="{{orcid}}" height="15%" width="15%"/></a>
 <!--a href=""><img src={{}} height=50></a> -->
+
+<br>
