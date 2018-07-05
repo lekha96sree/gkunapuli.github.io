@@ -20,7 +20,6 @@ approach that tunes the weights of the heterogeneous similarities, and fuses the
 Kernel for Identifying Drug-Drug interactions and Discovery, or SKID^3. Experimental evaluation on the
 DrugBank database shows that SKID^3 effectively combines similarities generated from chemical reaction
 pathways (which generally improve precision) and molecular and structural fingerprints (which generally
-improve recall) into a single kernel that gets the best of both worlds, and consequently demonstrates the
-best performance.
+improve recall) into a single kernel that gets the best of both worlds, and consequently demonstrates the best performance.
 
 [[BibTeX]](http://gkunapuli.github.io/files/18ddiCHASE.bib)
