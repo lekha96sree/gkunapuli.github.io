@@ -7,7 +7,7 @@ date: 2018-09-26
 venue: 'Third IEEE/ACM Conference on Connected Health: Applications, Systems, Engineering and Technologies (CHASE''18), Washington D.C.'
 paperurl: 'http://gkunapuli.github.io/files/18ddiCHASE.pdf'
 citation: 'D. Dhami, G. Kunapuli, M. Das, D. Page and S. Natarajan. 
-<b> Drug-Drug Interaction Discovery: Kernel Learning from Heterogeneous Similarities </b>.
+<b> Drug-Drug Interaction Discovery: Kernel Learning from Heterogeneous Similarities</b>.
 <i> Third IEEE/ACM Conference on Connected Health: Applications, Systems, Engineering and Technologies</i> (CHASE''18), Washington D.C.'
 author: 'D. Dhami, <b> G. Kunapuli</b>, M. Das, D. Page and S. Natarajan'
 ---
