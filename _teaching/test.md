@@ -1,0 +1,141 @@
+---
+title: "TEST: Machine Learning"
+collection: teaching
+type: "3 Credit Course"
+permalink: /teaching/2018-fall-CS6375
+venue: "JO 3.516"
+date: 2019-01-01
+location: "UT Dallas"
+semester: "Fall 2018"
+---
+
+Spring 2018
+
+Course Overview
+======
+**Class Hours**: Tu/Th 4:00–5:15pm <br> **Class Room**: JO 3.516 <br>
+
+Instructor: Gautam Kunapuli <br>
+Office: ECSS 2.717 <br>
+Email:  gautam-dot-kunapuli-@-utdallas.edu <br>
+Office Hours: Wed 12pm-1pm, and by appointment. <br>
+
+Teaching Assistant: Siwen Yan <br>
+Email: sxy170011-@-utdallas.edu <br>
+Office Hours:  Fri 9:30am-11:30am, ECSS 2.104 A1 <br>
+
+Course Description
+-----
+The main aim of the course is to provide an introduction and **hands-on understanding** of a broad variety of **machine-learning algorithms** on **real applications**. In addition to delving into the underlying mathematical and algorithmic details for many learning methods, we will also explore the practical aspects of applying machine learning to real-world data through **programming assignments**.
+
+Pre-requisities 
+----
+The mandatory pre-requisite is **CS5343: Algorithm Analysis and Data Structures**. 
+
+In addition, many concepts in this class require a comfortable grasp of basic **probability theory**, **linear algebra**, **multivariate calculus** and **optimization**. Garret Thomas' _Mathematics for Machine Learning_ is a superb **review of essential mathematical background**: you can read it [here](https://gwthomas.github.io/docs/math4ml.pdf).
+
+The programming assignments will require coding in **Python**.
+
+Textbooks and Course Materials
+----
+There is **no required textbook** for this class. However, the following textbooks are useful references for various topics we will cover in this course:
+* _Pattern Recognition and Machine Learning_ by Christopher M. Bishop; this is a standard textbook and reference for introductory
+machine learning and covers a large part of our syllabus;
+* _Machine Learning: a Probabilistic Perspective_ by Kevin Murphy; another excellent book and reference, especially for probabilistic
+graphical models.
+
+The following books are **available online, free for personal use**. Supplemental reading material will be assigned from these sources
+as often as possible.
+* _The Elements of Statistical Learning: Data Mining, Inference, and Prediction_ by Trevor Hastie, Robert Tibshirani and Jerome Friedman (available [online](https://web.stanford.edu/~hastie/ElemStatLearn/))
+* _Introduction to Data Mining_ by 	Pang-Ning Tan, Michael Steinbach, Anuj Karpatne and Vipin Kumar (available [online](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php))
+* _Bayesian Reasoning and Machine Learning_ by David Barber (available [online](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online))
+* _Understanding Machine Learning: From Theory to Algorithms_ by Shai Shalev-Shwartz and Shai Ben-David (available [online](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)) introduces machine learning from a theoretical perspective;
+* _Deep Learning_ by Ian Goodfellow, Yoshua Bengio and Aaron Courville (available [online](https://www.deeplearningbook.org/)) is an excellent introductory textbook for a wide-variety of deep learning methods and applications;
+* _Reinforcement Learning: An Introduction_ by Richard S. Sutton and Andrew G. Barto (available [online](http://incompleteideas.net/book/the-book-2nd.html)) is the _de facto_ textbook and reference for reinforcement learning;
+
+
+Syllabus and Schedule
+======
+The topic schedule is subject to change at the instructor's discretion. Please check this page regularly for lecture slides, additional references and reading materials.
+
+| Week | Date | Topic | Readings | Notes |
+|---|---|---|---|---|
+| 1  | Aug 21 (tu) | [Introduction](https://gkunapuli.github.io/files/cs6375/01-IntroductionToML.pdf) & [Linear Regression](https://gkunapuli.github.io/files/cs6375/02-LinearRegression.pdf) | Bishop, Ch. 1|  |
+|    | Aug 23 (th) |[Linear Regression](https://gkunapuli.github.io/files/cs6375/02-LinearRegression.pdf) (continued) | [Andrew Ng's Lecture Notes, Part I](http://cs229.stanford.edu/notes/cs229-notes-all/cs229-notes1.pdf); <br> Shalev-Shwartz & Ben-David, Ch. 9.2; <br> [Kilian Weinberger's Lecture Notes  (probabilistic view)](http://www.cs.cornell.edu/courses/cs4780/2017sp/lectures/lecturenote08.html)  |  |
+| 2  | Aug 28 (tu) | [Perceptron](https://gkunapuli.github.io/files/cs6375/03-Perceptron.pdf) | Shalev-Shwartz & Ben-David, Ch. 9.1; <br> [Kilian Weinberger's Lecture Notes](http://www.cs.cornell.edu/courses/cs4780/2017sp/lectures/lecturenote03.html)  |   |
+|    | Aug 30 (th) | [Decision Trees](https://gkunapuli.github.io/files/cs6375/04-DecisionTrees.pdf)  | [Sriraam Natarajan's Primer on Uncertainty](https://gkunapuli.github.io/files/cs6375/SriraamNatarajan-Uncertainty.pdf); <br> [Mitchell, Ch. 3](http://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/mitchell-dectrees.pdf); <br> [Kilian Weinberger's Lecture Notes](http://www.cs.cornell.edu/courses/cs4780/2017sp/lectures/lecturenote17.html) |  **HW1 Out** |
+| 3  | Sep 04 (tu) |  [Decision Trees](https://gkunapuli.github.io/files/cs6375/04-DecisionTrees.pdf) (continued) |  |   |
+|    | Sep 06 (th) | [Nearest Neighbor Methods](https://gkunapuli.github.io/files/cs6375/05-NearestNeighborMethods.pdf) | Bishop, Ch. 14.4; <br> [Daum&#233; III, Ch. 3](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) |   |
+| 4  | Sep 11 (tu) | [Support Vector Machines](https://gkunapuli.github.io/files/cs6375/06-SupportVectorMachines.pdf)  |  [Andrew Ng's Lecture Notes](http://cs229.stanford.edu/notes/cs229-notes-all/cs229-notes3.pdf);<br> Bishop, Ch. 7; <br> Barber, Ch. 17.5; <br> Shalev-Shwartz & Ben-David, Ch. 15 | **HW1 Due**  |
+|    | Sep 13 (th) | [Support Vector Machines](https://gkunapuli.github.io/files/cs6375/06-SupportVectorMachines.pdf) (continued) |  |   **PA1 Out** |
+| 5  | Sep 18 (tu) | [Machine Learning Theory](https://gkunapuli.github.io/files/cs6375/07-MachineLearningTheory.pdf)<br> _VC Dimension, PAC bounds_ <br> _Bias-variance tradeoff_  | [Andrew Ng's Lecture Notes](http://cs229.stanford.edu/notes/cs229-notes4.pdf); <br> Shalev-Shwartz & Ben-David, Ch. 3-6  |   |
+|    | Sep 20 (th) | [Machine Learning Practice](https://gkunapuli.github.io/files/cs6375/08-MachineLearningPractice.pdf) <br> _pre-processing, model selection, <br> cross validation, missing data, evaluation_ <br>| [Kotsiantis et al., 2006](https://pdfs.semanticscholar.org/c640/1e515a58fc36c37fc97e3b0cb18ce4682743.pdf) |   |
+| 6  | Sep 25 (tu) | [Naive Bayes](https://gkunapuli.github.io/files/cs6375/09-NaiveBayes.pdf) | [Mitchell 2nd ed. Ch. 3.1-3.2](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf); <br> [Daum&#233; III, Ch. 9](http://ciml.info/dl/v0_99/ciml-v0_99-ch09.pdf) |   |
+|    | Sep 27 (th) | [Logistic Regression](https://gkunapuli.github.io/files/cs6375/10-LogisticRegression.pdf) | [Mitchell 2nd ed. Ch. 3.3-3.5](https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf); <br> Bishop, 8.4.1, 9.2, 9.3, 9.4; <br> [Andrew Ng's Lecture Notes, Pt II](http://cs229.stanford.edu/notes/cs229-notes1.pdf); <br> [Kilian Weinberger's Lecture Notes](http://www.cs.cornell.edu/courses/cs4780/2017sp/lectures/lecturenote06.html)|   |
+| 7  | Oct 2 (tu) | [Logistic Regression](https://gkunapuli.github.io/files/cs6375/10-LogisticRegression.pdf)  (continued) |  | **PA1 Due**  |
+|    | Oct 4 (th) | [Mid-Term Prep](https://gkunapuli.github.io/files/cs6375/MidTerm-Review.pdf) |   |   |
+| 8  | Oct 9 (tu) | **In-class Mid-Term Exam** |  |   |
+|    | Oct 11 (th) | [Ensemble Methods: Bagging](https://gkunapuli.github.io/files/cs6375/11-Bagging.pdf)  | Bishop, Ch. 14; <br> [Hastie et al., Ch. 7.1-7.6, 8.7](https://web.stanford.edu/~hastie/ElemStatLearn/); <br> [Visualization of the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)|  |
+| 9  | Oct 16 (tu) | [Ensemble Methods: Boosting](https://gkunapuli.github.io/files/cs6375/12-Boosting.pdf)  | [Hastie et al., Ch. 15](https://web.stanford.edu/~hastie/ElemStatLearn/); <br> [Freund and Schapire, 1999](http://cseweb.ucsd.edu/~yfreund/papers/IntroToBoosting.pdf) |  **PA2 out**  |
+|    | Oct 18 (th) | [Ensemble Methods: Gradient Boosting](https://gkunapuli.github.io/files/cs6375/13-GradientBoosting.pdf) | [Friedman, 99](https://statweb.stanford.edu/~jhf/ftp/trebst.pdf); <br> [Mason et al., 99](http://maths.dur.ac.uk/~dma6kp/pdf/face_recognition/Boosting/Mason99AnyboostLong.pdf); <br> [Visualizing Gradient Boosting](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html); <br> [Tong He's Presentation on XGBoost](https://www.youtube.com/watch?v=ufHo8vbk6g4) |   |
+| 10 | Oct 23 (tu) | [Principal Components Analysis](https://gkunapuli.github.io/files/cs6375/14-PrincipalComponentAnalysis.pdf) | [Andrew Ng's Lecture Notes, Pt II](http://cs229.stanford.edu/notes/cs229-notes10.pdf) |   |
+|    | Oct 25 (th) | [Clustering](https://gkunapuli.github.io/files/cs6375/15-Clustering.pdf)   | [Tan et al., Ch. 8](https://www-users.cs.umn.edu/~kumar001/dmbook/ch8.pdf)  |   |
+| 11 | Oct 30 (tu) |[Clustering](https://gkunapuli.github.io/files/cs6375/15-Clustering.pdf) (continued) <br> _Slides updated to include GMMs_  | | **PA2 due** <br> **HW2 out**  |
+|    | Nov 01 (th) | Neural Networks  |  |  |
+| 12 | Nov 06 (tu) | Deep Learning |  |    |
+|    | Nov 08 (th) | Deep Learning (continued) |  |  |
+| 13 | Nov 13 (tu) | Hidden Markov Models |  | **HW2 due** <br> **PA3 Out**  |
+|    | Nov 15 (th) | Hidden Markov Models (continued) |  |   |
+| 14 | Nov 20 (tu) | **Fall/Thanksgiving Break** |  |   |
+|    | Nov 22 (th) | **Fall/Thanksgiving Break** |  |   |
+| 15 | Nov 27 (tu) | Reinforcement Learning |  |   |
+|    | Nov 29 (th) | Reinforcement Learning (continued) |  | **PA3 due**  |
+| 16 | Dec 4 (tu) | Course Summary |  |   |
+|    | Dec 6 (th) | Final Exam Prep |  |   |
+
+
+The second half of the class will cover Ensemble Methods (bagging, boosting), Dimensionality Reduction Techniques, Neural Networks & Deep Learning, Hidden Markov Models, Bayesian Networks and Reinforcement Learning. The class schedule will be updated over the course of the semester.
+
+Grading
+----
+* 20%, Homework problem sets (2, each 10%)
+* 30%, Programming assignments (3, each 10%)
+* 20%, Mid-term Exam
+* 30%, Final Exam
+
+
+Course Policies
+=====
+
+Attendance Policy
+----
+Classroom attendance for all lectures is mandatory. Prolonged absence from the lectures may lead to substantial grade penalties:
+* two consecutive absences, no penalty;
+* 3 consecutive absences: 1 letter grade drop;
+* 4 consecutive absences, F grade.
+
+Absence due to emergency or extenuating circumstances can be excused, but [proof may be required](http://cs.utdallas.edu/education/undergraduate/attendance-policy/).
+
+Homework Policy
+----
+Homework assignments are **due at the start of class on the due date** without exceptions, unless permission was obtained from the instructor **in advance**. Homework and assignment deadlines will  not be extended except under extreme university-wide circumstances such as weather emergencies.
+
+All homeworks, programming projects, take-home exams (if any) **are to be written up and completed individually**. You **may discuss, collaborate, brainstorm and strategize** ideas, concepts and problems with other students. However, all written solutions and coded programs **must be your own**. Copying another student's work or allowing other students to copy your work is academically dishonest.
+
+Academic Integrity
+----
+All students are responsible for adhering to UT Dallas Community Standards and Conduct, particularly regarding [Academic Integrity](https://www.utdallas.edu/conduct/integrity/) and [Academic Dishonesty](https://www.utdallas.edu/conduct/dishonesty/).  Any academic dishonesty, including, but not restricted to [plagiarism](https://www.utdallas.edu/conduct/dishonesty/#plagiarism) (including from internet sources), [collusion](https://www.utdallas.edu/conduct/dishonesty/#collusion), [cheating](https://www.utdallas.edu/conduct/dishonesty/#cheating), [fabrication](https://www.utdallas.edu/conduct/dishonesty/#fabrication), will result in a zero score on the assignment/project/exam and possible disciplinary action.
+
+Students with Disabilities
+----
+UT Dallas is committed to equal access in all endeavors for students with disabilities. The [Office of Student Accessability (OSA)](https://www.utdallas.edu/studentaccess/) provides academic accommodations for eligible students with a documented disability. Accommodations for each student are determined by OSA on an individual basis, with input from qualified professionals. Accommodations are intended to level the playing field for students with disabilities, while maintaining the academic integrity and standards set by the University. If you think you qualify for an academic accommodation, please visit OSA to determine eligibility. 
+
+If you have already received academic accommodation, please contact me by e-mail to schedule an appointment **before classes start**, if possible.
+
+
+
+
+
+
+
+
