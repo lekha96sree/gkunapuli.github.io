@@ -1,5 +1,5 @@
 ---
-title: "Classification of burn injury using Raman spectroscopy and optical coherence tomography: An ex-vivo study on porcine skin"
+title: "Classification of Burn Injury using Raman Spectroscopy and Optical Coherence Tomography: An Ex-Vivo Study on Porcine Skin"
 collection: publications
 permalink: /publication/18classificationBurns
 excerpt: ''
@@ -7,7 +7,7 @@ date: 2018-10-04
 venue: 'Burns'
 paperurl: 'http://gkunapuli.github.io/files/18classificationBurns.pdf'
 citation: 'L. P. Rangaraju, G. Kunapuli, D. Every, O. D. Ayala, P. Ganapathy, A. Mahadevan-Jansen. 
-<b> Classification of burn injury using Raman spectroscopy and optical coherence tomography: An ex-vivo study on porcine skin </b>. 
+<b> Classification of Burn Injury using Raman Spectroscopy and Optical Coherence Tomography: An Ex-Vivo Study on Porcine Skin</b>. 
 <i>Burns</i>, (2018, in press).'
 author:  'L. P. Rangaraju, <b>G. Kunapuli</b>, D. Every, O. D. Ayala, P. Ganapathy, A. Mahadevan-Jansen'
 type: 'journal'
