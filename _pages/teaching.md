@@ -8,8 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-Current 
--------
+<h2 class="archive__subtitle" itemprop="headline"> Current </h2>
 {% for post in site.teaching %}
 	{%if post.semester == 'Spring 2019' %}
 		{% include archive-single.html %}
