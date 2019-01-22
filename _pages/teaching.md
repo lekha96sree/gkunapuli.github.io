@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 Current 
 -------
 {% for post in site.teaching %}
@@ -14,6 +15,7 @@ Current
 		{% include archive-single.html %}
 	{%endif%}
 {% endfor %}
+
 
 Previous
 --------
