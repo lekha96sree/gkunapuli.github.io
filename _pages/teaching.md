@@ -18,7 +18,7 @@ author_profile: true
 
 <h2 class="archive__subtitle" itemprop="headline"> Previous </h2>
 {% for post in site.teaching reversed %}
-	{%if post.semester != 'Spring 2019' %}
+	{%if post.semester != 'Fall 2019' %}
 		{% include archive-single.html %}
 	{%endif%}
 {% endfor %}
