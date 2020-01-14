@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gautam Kunapuli / Research Associate Professor"
+title                    : "Gautam Kunapuli"
 title_separator          : "-"
 name                     : &name "Gautam Kunapuli"
-description              : &description "Research Associate Professor"
+description              : &description "Machine Learning Enthusiast"
 url                      : https://gkunapuli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gkunapuli/gkunapuli.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Gautam Kunapuli"
   avatar           : "gautam_kunapuli.jpg"
-  bio              : "Research Associate Professor"
-  location         : "ECSS 2.717"
-  employer         : "Univ. of Texas at Dallas"
+  bio              : ""
+  location         : ""
+  employer         : ""
   googlescholar    : "https://scholar.google.com/citations?user=XewwOE8AAAAJ&hl=en"
   email            : "gautam.kunapuli@utdallas.edu"
   uri              :
