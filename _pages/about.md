@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gautam Kunapuli's Academic Webpage"
+title: "Gautam Kunapuli's Webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,21 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate Professor in the [Department of Computer Science](https://cs.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/). I am a part of the Statistical Artificial Intelligence and Relational Learning Group ([Starling Lab](https://starling.utdallas.edu/)) at UT Dallas.
+```diff
+! I am no longer at UT Dallas
+```
+
 
 My research interests include human-in-the-loop learning, knowledge-based and advice-taking learning algorithms, scalable and efficient learning algorithms, domain adaptation and non-convex optimization; with applications in large-scale medical informatics, social networking, text analytics, behavior mining and educational data mining.
 
-Contact Information
-======
-ECSS 2.717 <br>
-Erik Jonsson School of Engineering & Computer Science <br>
-800 W. Campbell Road <br>
-Richardson, TX 75080  <br>
-
-**Phone**: (972) 883-4212 <br>
-**Email**: gautam-dot-kunapuli-@-utdallas.edu 
-
-
-For prospective students:
-======
-If you are interested in working in the Starling Lab, please register for a course taught by me or [Prof. Sriraam Natarajan](https://utdallas.edu/~sriraam.natarajan/index.html). The Starling Lab is not currently offering any internship/short-term positions. 
+I was previously Research Associate Professor in the [Department of Computer Science](https://cs.utdallas.edu/) at [The University of Texas at Dallas](https://www.utdallas.edu/), and a member of the the Statistical Artificial Intelligence and Relational Learning Group ([Starling Lab](https://starling.utdallas.edu/)).
