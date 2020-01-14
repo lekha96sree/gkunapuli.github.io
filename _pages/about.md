@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![I'm no longer at UTD](/images/LeftUTDallas.png)
+
 ![I'm no longer at UTD](https://github.com/gkunapuli/gkunapuli.github.io/blob/master/images/LeftUTDallas.png)
 
 My research interests include human-in-the-loop learning, knowledge-based and advice-taking learning algorithms, scalable and efficient learning algorithms, domain adaptation and non-convex optimization; with applications in large-scale medical informatics, social networking, text analytics, behavior mining and educational data mining.
