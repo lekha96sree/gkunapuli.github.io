@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gautam Kunapuli's Webpage"
+title: "Lekhasree Narayanagari"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
